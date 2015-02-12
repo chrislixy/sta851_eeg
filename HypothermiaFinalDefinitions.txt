@@ -1,0 +1,25 @@
+Sup: Suppression without comment of frequency
+SupDelta: Suppressed delta activity
+ESE: Electrographic status epilepticus
+ESZ: electrographic seizures not meeting criteria for ESE
+BS: Burst suppression
+MyoBS: Burst suppression with myoclonus
+Myo: Myoclonus
+EMG: Extensive EMG artifact 
+NC: Not commented upon in report
+MR: Minimally reactive
+React: reactive
+NR: Nonreactive
+Background: Predominant background rhythm of the day
+Pattern: EEG patterns noted in addition to background
+Slowing: Background less than 8.5Hz of unnoted frequency
+EQ: Equivocal drowsiness
+"Drow: Drowsiness as manifest by background fragmentation, without evidence of deeper sleep structures"
+Alpha: Best background of the day was alpha-range
+Delta: Best activity of the day was delta
+Theta: Best activity of the day was theta
+SupTheta: Suppressed theta activity
+"Sleep: Deeper sleep architecture, including sleep spindles, K-complexes, or delta activity"
+Asym: Asymmetric amplitude
+IntDelt: Intermittent delta
+MyoGPEDs: GPEDs with associated myoclonus
